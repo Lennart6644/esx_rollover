@@ -1,6 +1,6 @@
 Dependencies:
 - ESX
-- mythic_notify
+- mythic_notify: https://github.com/yordi-a/mythic_notify
 
 This script has the following functions:
 
