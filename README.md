@@ -1,3 +1,7 @@
+Dependencies:
+- ESX
+- mythic_notify
+
 This script has the following functions:
 
 
